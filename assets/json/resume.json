@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "HongJia Ma",
-    "label": "Seeking for a Ph.D. program",
+    "label": "B.Eng.",
     "image": "",
     "email": "mahjia@126.com",
     "phone": "",
@@ -37,33 +37,6 @@
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Westlake University, Hangzhou, China",
-      "url": "https://www.westlake.edu.cn",
-      "area": "Physical Chemistry",
-      "studyType": "Ph. D.",
-      "startDate": "2022-09-01",
-      "endDate": "2026-07-01",
-      "score": "",
-      "courses": [
-        "Quantum Chemistry",
-        "Open System Quantum Mechanics"
-      ]
-    },
-    {
-      "institution": "Harbin Institute of Technology, Harbin, China",
-      "url": "http://www.hit.edu.cn",
-      "area": "Mechanical Engineering",
-      "studyType": "M. Eng.",
-      "startDate": "2020-09-01",
-      "endDate": "2022-07-01",
-      "score": "",
-      "courses": [
-        "Robotics",
-        "Control Theory",
-        "Reverse Engineering"
-      ]
-    },
     {
       "institution": "Harbin Institute of Technology, Harbin, China",
       "url": "http://www.hit.edu.cn",

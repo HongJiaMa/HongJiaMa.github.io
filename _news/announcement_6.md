@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-My first paper [Predicting rate kernels via dynamic mode decomposition] is on Arxiv now!
+I am seeking a doctoral program and seeking recommendation!
