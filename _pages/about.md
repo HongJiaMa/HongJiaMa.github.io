@@ -6,7 +6,7 @@ subtitle: <a href='#'>Westlake University</a>. Ph.D. Student.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Me.jepg
   image_circular: false # crops the image to make it circular
   address: >
     <p>E5-412, SS,</p>
@@ -22,6 +22,6 @@ I am currently a doctoral student at [Westlake University](https://www.westlake.
 
 Feel free to reach out to me anytime via email:
 
-liuwei42@westlake.edu.cn.
+mahjia@126.com.
 
 I'm always open to engaging in discussions, collaborations, and sharing insights within the scientific community.
