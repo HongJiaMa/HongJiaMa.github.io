@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Wei Liu",
-    "label": "Ph.D. Student",
+    "name": "HongJia Ma",
+    "label": "Seeking for a Ph.D. program",
     "image": "",
-    "email": "liuwei42@westlake.edu.cn",
+    "email": "mahjia@126.com",
     "phone": "",
-    "url": "https://dougroup.westlake.edu.cn/group.html",
-    "summary": "A doctoral student in physical chemistry with a focus on simulating excited state dynamics and open quantum systems",
+    "url": "",
+    "summary": "Seeking for a Ph.D. program in physical chemistry with a focus on simulating excited state dynamics and open quantum systems",
     "location": {
-      "address": "600 Dunyu Road",
-      "postalCode": "CA 94115",
-      "city": "Hangzhou",
+      "address": "22 Baiwanzhuang Street",
+      "postalCode": "100000",
+      "city": "Beijing",
       "countryCode": "CN",
-      "region": "Zhejiang PR"
+      "region": "Beijing"
     },
     "profiles": [
       {
@@ -24,14 +24,14 @@
   },
   "work": [
     {
-      "name": "China Academy of Space Technology",
-      "position": "Intelligent Manufacturing Intern",
-      "url": "https://www.cast.cn",
-      "startDate": "2021-06-30",
-      "endDate": "2021-08-30",
-      "summary": "Assisting the production of a certain type of spacecraft using artificial intelligence methods.",
+      "name": "China Machine Press",
+      "position": "Editor",
+      "url": "http://www.cmpbook.com",
+      "startDate": "2022-04-01",
+      "endDate": "2023-07-31",
+      "summary": "Responsible for editing materials journals and organizing academic conferences.",
       "highlights": [
-        "Machine Learning"
+        "Editors of materials journals"
       ]
     }
   ],
