@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: WeiLiu_CV.pdf
-description: This is my personal resume, and I have hardly discussed my experience in music, mainly focusing on academic aspects.
+cv_pdf: HongJiaMa_CV.pdf
+description: This is my personal resume, mainly focusing on academic aspects.
 ---
