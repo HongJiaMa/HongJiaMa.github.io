@@ -7,6 +7,7 @@ tags: jupyter
 categories: QuantumClassicDynamics
 giscus_comments: true
 related_posts: false
+featured: true
 ---
 
 <!-- To include a jupyter notebook in a post, you can use the following code:
