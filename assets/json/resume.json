@@ -56,58 +56,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Excellent Student Leader",
-      "date": "2019-11",
-      "awarder": "Hebei University of Technology",
-      "summary": ""
-    },
-    {
-      "title": "Outstanding club cadres at the school level",
-      "date": "2019-12",
-      "awarder": "Hebei University of Technology",
-      "summary": ""
-    },
-    {
-      "title": "Excellent Minister",
-      "date": "2018-11",
-      "awarder": "The Organization Department of the Employment Guidance Center of Hebei University of Technology",
-      "summary": ""
-    },
-    {
-      "title": "League Branch Secretary",
-      "date": "2017-5",
-      "awarder": "School of Materials Science and Engineering Youth League Branch",
-      "summary": ""
-    },
-    {
-      "title": "Excellent Minister",
-      "date": "2016-12",
-      "awarder": "The Literature and Art Department of the Student Union",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-    "title": "CET-6",
-    "date": "2019-12",
-    "awarder": "Education Examination Institute of the Ministry of Education",
-    "summary": ""
-  },
-  {
-  "title": "NCRE",
-  "date": "2018-12",
-  "awarder": "National Education Examinations Authority",
-  "summary": ""
-  },
-  {
-  "title": "SAC",
-  "date": "2018-6",
-  "awarder": "Securities Association",
-  "summary": ""
-  },
-],
+  "awards": [],
   "publications": [],
   "skills": [],
   "languages": [

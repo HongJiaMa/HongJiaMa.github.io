@@ -24,6 +24,6 @@ Throughout my academic journey, I have built a solid foundation and am dedicated
 
 Feel free to reach out to me anytime via email:
 
-mahjia@126.com.
+**mahjia@126.com**.
 
 I'm always open to engaging in discussions, collaborations, and sharing insights within the scientific community.
