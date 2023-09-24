@@ -38,38 +38,76 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Harbin Institute of Technology, Harbin, China",
-      "url": "http://www.hit.edu.cn",
-      "area": "Mechanical Engineering",
+      "institution": "Hebei University of Technology, Tianjin, China",
+      "url": "https://www.hebut.edu.cn",
+      "area": "Materials Science and Engineering",
       "studyType": "B. Eng.",
       "startDate": "2016-09-01",
       "endDate": "2020-07-01",
       "score": "",
       "courses": [
-        "Mathematical Analysis for Engineering",
+        "Calculus",
         "Linear Algebra",
+        "GroupTheory",
         "Complex Variables and Integral Transformation",
         "Statistics",
-        "Theoretical Mechanics",
-        "Mechanical Principle"
+        "Functional materials",
+        "The C Programming Language"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Graduate First Class Scholarship",
-      "date": "2022-11",
-      "awarder": "Graduate School of Harbin Institute of Technology",
+      "title": "Excellent Student Leader",
+      "date": "2019-11",
+      "awarder": "Hebei University of Technology",
       "summary": ""
     },
     {
-      "title": "Graduate First Class Scholarship",
-      "date": "2021-11",
-      "awarder": "Graduate School of Harbin Institute of Technology",
+      "title": "Outstanding club cadres at the school level",
+      "date": "2019-12",
+      "awarder": "Hebei University of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Minister",
+      "date": "2018-11",
+      "awarder": "The Organization Department of the Employment Guidance Center of Hebei University of Technology",
+      "summary": ""
+    },
+    {
+      "title": "League Branch Secretary",
+      "date": "2017-5",
+      "awarder": "School of Materials Science and Engineering Youth League Branch",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Minister",
+      "date": "2016-12",
+      "awarder": "The Literature and Art Department of the Student Union",
       "summary": ""
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+    "title": "CET-6",
+    "date": "2019-12",
+    "awarder": "Education Examination Institute of the Ministry of Education",
+    "summary": ""
+  },
+  {
+  "title": "NCRE",
+  "date": "2018-12",
+  "awarder": "National Education Examinations Authority",
+  "summary": ""
+  },
+  {
+  "title": "SAC",
+  "date": "2018-6",
+  "awarder": "Securities Association",
+  "summary": ""
+  },
+],
   "publications": [],
   "skills": [],
   "languages": [

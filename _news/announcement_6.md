@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-I am seeking a doctoral program and seeking recommendation!
+I am seeking a doctoral program in physical chemistry and seeking recommendation!
