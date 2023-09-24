@@ -9,9 +9,9 @@ profile:
   image: Me.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>E5-412, SS,</p>
-    <p>No. 600 Dunyu Road,</p>
-    <p>Hangzhou, China</p>
+    <p>22 Baiwanzhuang Street,</p>
+    <p>Xicheng District,</p>
+    <p>Beijing, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
