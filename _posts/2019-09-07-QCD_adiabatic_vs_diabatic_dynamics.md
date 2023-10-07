@@ -2,7 +2,7 @@
 layout: post
 title: QCD_adiabatic_vs_diabatic_dynamics
 date: 2019-09-07 09:59:01-0400
-description: an introduction to adiabatic_vs_diabatic_dynamics
+description: an introduction to adiabatic_vs_diabatic_dynamics.
 tags: jupyter
 categories: QuantumClassicDynamics
 giscus_comments: true

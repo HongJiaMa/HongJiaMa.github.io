@@ -1,8 +1,8 @@
 ---
 layout: post
-title: QCD_split_op_schrodinger1D
+title: QCD_split_op_schrodinger_1D
 date: 2019-08-31 08:59:00-0400
-description: an introduction to split_op_schrodinger1D
+description: an introduction to split_op_schrodinger_1D
 tags: jupyter
 categories: QuantumClassicDynamics
 giscus_comments: true
