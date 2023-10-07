@@ -6,7 +6,7 @@
     "email": "mahjia@126.com",
     "phone": "",
     "url": "",
-    "summary": "Seeking for a Ph.D. program in physical chemistry with a focus on simulating excited state dynamics and open quantum systems",
+    "summary": "",
     "location": {
       "address": "22 Baiwanzhuang Street",
       "postalCode": "100000",
@@ -45,14 +45,7 @@
       "startDate": "2016-09-01",
       "endDate": "2020-07-01",
       "score": "",
-      "courses": [
-        "Calculus",
-        "Linear Algebra",
-        "GroupTheory",
-        "Complex Variables and Integral Transformation",
-        "Statistics",
-        "Functional materials",
-        "The C Programming Language"
+      "courses": [""
       ]
     }
   ],

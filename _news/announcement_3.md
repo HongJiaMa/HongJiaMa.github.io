@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-Happy Spring Festival! What a beautiful life! :fireworks: :sparkles: :smile:
+Happy Spring Festival! :fireworks: :sparkles: :smile:
